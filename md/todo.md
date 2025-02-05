@@ -28,4 +28,3 @@
 - Cadastrar minhas despesas
 - Cadastrar as categorias que classificarão as transções
 - Calcular o saldo da conta com base nisso tudo
-- Calcular o total de cada categoria para exibir o total de gastos
